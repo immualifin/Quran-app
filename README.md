@@ -292,7 +292,7 @@ Project ini dibuat untuk tujuan pembelajaran dan praktikum development.
 Jika ada pertanyaan atau masalah, silakan hubungi:
 
 - **Email**: mimualifin22@gmail.com
-- **GitHub Issues**: https://github.com/immualifin/quran_app/issues
+- **GitHub Issues**: https://github.com/immualifin/Quran-app/issues
 
 ## 🔮 Future Enhancements
 
