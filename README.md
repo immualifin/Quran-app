@@ -129,7 +129,7 @@ Sebelum menginstal aplikasi, pastikan Anda sudah memiliki:
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/immualifin/Quran-app
 
 # Masuk ke direktori project
 cd quran_app
